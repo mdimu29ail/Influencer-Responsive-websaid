@@ -238,7 +238,7 @@ footer#Influencer-products {
 
 /* Iphone 14 pro max */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   body {
     width: 100%;
   }
@@ -316,7 +316,7 @@ footer#Influencer-products {
 
 /* IPad air */
 
-@media screen and (min-width: 769px) and (max-width: 992px) {
+@media screen and (min-width: 601px) and (max-width: 900px) {
   body {
     width: 100%;
   }
@@ -361,7 +361,7 @@ footer#Influencer-products {
   .Featured-tital p {
     margin: 2px 0px;
     font-size: 10px;
-    width: 315px;
+    width: 100%;
     margin-top: 20px;
   }
   button.Featured-btn {
